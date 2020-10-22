@@ -140,7 +140,6 @@ app_store_white:
   image@hu: !g.static /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_HU_white.svg
   image@id: !g.static /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_ID_white.svg
   image@iw: !g.static /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_IL_white.svg
-  image@hi: !g.static /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_IN_white.svg
   image@it: !g.static /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_IT_white.svg
   image@ja: !g.static /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_JP_white.svg
   image@ko: !g.static /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_KR_white.svg
