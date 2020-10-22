@@ -8,7 +8,10 @@ setup(
     author='Grow SDK Authors',
     author_email='hello@grow.io',
     package_data={
-        'grow_mobile_app_badges': ['*.yaml'],
+        'grow_mobile_app_badges': [
+            '*.yaml',
+            "images/*/*",
+        ],
     },
     packages=[
         'grow_mobile_app_badges',
