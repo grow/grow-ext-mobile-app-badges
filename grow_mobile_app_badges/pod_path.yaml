@@ -19,7 +19,7 @@ play_store:
   image@et: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_et.svg
   image@eu: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_eu.svg
   image@fa: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_fa.svg
-  image@fi: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_fi.svg
+  image@fi_FI: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_fi.svg
   image@fil: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_fil.svg
   image@fr_CA: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_fr-ca.svg
   image@fr: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_fr.svg
@@ -63,7 +63,7 @@ play_store:
   image@sl: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_sl.svg
   image@sq: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_sq.svg
   image@sr: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_sr.svg
-  image@sv: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_sv.svg
+  image@sv_SE: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_sv.svg
   image@sw: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_sw.svg
   image@ta: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_ta.svg
   image@te: /extensions/grow_mobile_app_badges/images/Play-Store/Play-Store-Badge_te.svg
@@ -90,7 +90,7 @@ app_store:
   image@ee: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_EE_black.svg
   image@es: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_ES_black.svg
   image@es_419: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_ESMX_black.svg
-  image@fi: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_FI_black.svg
+  image@fi_FI: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_FI_black.svg
   image@fr: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_FR_black.svg
   image@fr_CA: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_FRCA_black.svg
   image@gu: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_GR_black.svg
@@ -113,7 +113,7 @@ app_store:
   image@pt: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_PTPT_black.svg
   image@ro: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_RO_black.svg
   image@ru: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_RU_black.svg
-  image@sv: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_SE_black.svg
+  image@sv_SE: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_SE_black.svg
   image@si: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_SI_black.svg
   image@sk: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_SK_black.svg
   image@th: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_TH_black.svg
@@ -133,7 +133,7 @@ app_store_white:
   image@ee: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_EE_white.svg
   image@es: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_ES_white.svg
   image@es_419: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_ESMX_white.svg
-  image@fi: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_FI_white.svg
+  image@fi_FI: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_FI_white.svg
   image@fr: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_FR_white.svg
   image@fr_CA: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_FRCA_white.svg
   image@gu: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_GR_white.svg
@@ -155,7 +155,7 @@ app_store_white:
   image@pt: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_PTPT_white.svg
   image@ro: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_RO_white.svg
   image@ru: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_RU_white.svg
-  image@sv: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_SE_white.svg
+  image@sv_SE: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_SE_white.svg
   image@si: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_SI_white.svg
   image@sk: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_SK_white.svg
   image@th: /extensions/grow_mobile_app_badges/images/App-Store/App-Store-Badge_TH_white.svg
